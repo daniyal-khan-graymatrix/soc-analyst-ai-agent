@@ -39,5 +39,6 @@ def report_generator(state):
     os.makedirs("reports", exist_ok=True)
     with open(f"reports/{filename}", "w") as f:
         json.dump(summary_report, f, indent=2)
+    print(f"Incident report is stored as: {filename}")
 
     return state
