@@ -34,7 +34,6 @@ def extract_features(logs, endpoint_encoder, event_encoder):
         except:
             hour = 0
 
-        endpoint = log.get("endpoint", "unknown")
         event = log.get("event", "UNKNOWN_ACTIVITY")
 
         event_enc = event_encoder.transform([event])[0] if event in event_encoder.classes_ else -1
