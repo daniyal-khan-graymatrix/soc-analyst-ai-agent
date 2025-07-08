@@ -1,0 +1,1602 @@
+[
+  {
+    "timestamp": "2025-06-30 09:14:02",
+    "user": "simmonschristopher",
+    "ip": "111.28.108.167",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 10:52:34",
+    "user": "thomashopkins",
+    "ip": "128.154.81.123",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:43:48",
+    "user": "christy14",
+    "ip": "167.127.38.131",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:40:37",
+    "user": "wigginscarol",
+    "ip": "45.162.241.182",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:44:41",
+    "user": "jimeneznathaniel",
+    "ip": "195.80.189.14",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:49:19",
+    "user": "rgutierrez",
+    "ip": "216.118.105.174",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:46:41",
+    "user": "linda20",
+    "ip": "25.74.25.134",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:11:57",
+    "user": "richardwilliams",
+    "ip": "203.124.222.101",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-30 12:27:27",
+    "user": "benjaminodom",
+    "ip": "164.204.253.93",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:26:26",
+    "user": "kathleenvillegas",
+    "ip": "92.244.223.214",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:27:28",
+    "user": "knappadrian",
+    "ip": "75.241.192.45",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 22:09:05",
+    "user": "cynthiakelly",
+    "ip": "13.240.104.162",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:22:13",
+    "user": "bethhayes",
+    "ip": "96.68.192.35",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:39:29",
+    "user": "olevine",
+    "ip": "75.62.46.123",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 12:40:29",
+    "user": "terryhernandez",
+    "ip": "223.8.99.208",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:07:33",
+    "user": "idonaldson",
+    "ip": "143.183.124.183",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:34:40",
+    "user": "carrollsamuel",
+    "ip": "18.243.133.176",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:09:51",
+    "user": "kennethwhite",
+    "ip": "183.130.249.98",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:18:06",
+    "user": "willielewis",
+    "ip": "216.64.136.100",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:28:06",
+    "user": "sarah81",
+    "ip": "207.220.152.68",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:10:40",
+    "user": "smithcourtney",
+    "ip": "211.222.228.141",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:57:04",
+    "user": "sheakyle",
+    "ip": "159.248.4.254",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:06:11",
+    "user": "teresamatthews",
+    "ip": "195.118.93.138",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 17:30:26",
+    "user": "nelsondaniel",
+    "ip": "111.77.130.229",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:48:23",
+    "user": "johnsonstacey",
+    "ip": "201.124.200.165",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:03:11",
+    "user": "petersondenise",
+    "ip": "112.136.238.187",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:28:11",
+    "user": "wcrosby",
+    "ip": "148.223.92.193",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:58:00",
+    "user": "jason98",
+    "ip": "212.160.103.109",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:07:34",
+    "user": "thomasmaurice",
+    "ip": "165.37.207.50",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:14:07",
+    "user": "laura27",
+    "ip": "177.156.46.125",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:46:37",
+    "user": "mary17",
+    "ip": "149.136.198.209",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:03:46",
+    "user": "amy11",
+    "ip": "211.11.192.243",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:51:02",
+    "user": "nancymatthews",
+    "ip": "149.75.238.191",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:47:07",
+    "user": "jason69",
+    "ip": "29.187.123.254",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:42:40",
+    "user": "conleymatthew",
+    "ip": "53.167.227.227",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:10:57",
+    "user": "kellyamy",
+    "ip": "24.48.220.181",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:37:14",
+    "user": "mcdowelldebra",
+    "ip": "200.101.85.59",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:47:48",
+    "user": "taylorjohn",
+    "ip": "44.23.73.8",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:49:22",
+    "user": "kpratt",
+    "ip": "138.253.203.114",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:40:42",
+    "user": "leechristopher",
+    "ip": "195.72.119.210",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:57:25",
+    "user": "christopherfrazier",
+    "ip": "176.172.175.46",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 19:34:09",
+    "user": "zsmith",
+    "ip": "222.47.114.81",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:22:37",
+    "user": "cpacheco",
+    "ip": "178.100.227.190",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:30:18",
+    "user": "qwilliams",
+    "ip": "155.27.28.168",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:31:29",
+    "user": "smithjames",
+    "ip": "36.120.242.40",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:15:39",
+    "user": "wendywilliams",
+    "ip": "25.39.164.138",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:03:49",
+    "user": "barrettjustin",
+    "ip": "212.152.119.105",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:47:34",
+    "user": "vjohnson",
+    "ip": "196.255.178.237",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:08:57",
+    "user": "fvalencia",
+    "ip": "129.156.197.100",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:35:00",
+    "user": "vmartin",
+    "ip": "210.140.35.145",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:59:29",
+    "user": "randy34",
+    "ip": "222.88.120.131",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:00:09",
+    "user": "stephaniewilliams",
+    "ip": "84.52.97.135",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:32:42",
+    "user": "rschmidt",
+    "ip": "183.237.125.208",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:46:20",
+    "user": "travisadkins",
+    "ip": "183.109.33.129",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:00:10",
+    "user": "dshepard",
+    "ip": "86.17.84.62",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-30 12:39:37",
+    "user": "mark50",
+    "ip": "184.19.148.30",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:46:43",
+    "user": "richard81",
+    "ip": "23.246.95.44",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:20:32",
+    "user": "dianehansen",
+    "ip": "124.151.122.167",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:14:07",
+    "user": "michelle47",
+    "ip": "125.220.171.166",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:22:05",
+    "user": "kelly24",
+    "ip": "137.47.94.133",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:36:05",
+    "user": "leslie81",
+    "ip": "184.246.224.216",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:39:14",
+    "user": "pearsonjennifer",
+    "ip": "167.78.161.51",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:45:42",
+    "user": "stephen79",
+    "ip": "133.211.197.199",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:46:40",
+    "user": "logan38",
+    "ip": "117.180.231.177",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 22:56:53",
+    "user": "zsimmons",
+    "ip": "102.244.25.46",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "UNKNOWN_ACTIVITY"
+  },
+  {
+    "timestamp": "2025-06-30 02:33:11",
+    "user": "coltonjohnson",
+    "ip": "139.75.148.112",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:51:36",
+    "user": "lorimason",
+    "ip": "162.156.10.63",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-30 07:51:38",
+    "user": "latoya76",
+    "ip": "196.45.139.191",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:04:10",
+    "user": "charles61",
+    "ip": "161.154.49.45",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:15:17",
+    "user": "hrobertson",
+    "ip": "204.213.22.72",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 12:45:56",
+    "user": "alfredking",
+    "ip": "213.88.90.113",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 17:51:47",
+    "user": "hardydeanna",
+    "ip": "66.188.101.17",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 22:29:07",
+    "user": "peter98",
+    "ip": "140.28.233.9",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 19:30:43",
+    "user": "michelle88",
+    "ip": "157.113.230.230",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:51:49",
+    "user": "vasquezchad",
+    "ip": "155.181.179.80",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:30:28",
+    "user": "kwest",
+    "ip": "20.147.152.185",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:48:42",
+    "user": "pjoseph",
+    "ip": "93.11.97.170",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:56:02",
+    "user": "abrooks",
+    "ip": "180.45.13.169",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:03:31",
+    "user": "brendajordan",
+    "ip": "220.151.142.107",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:00:19",
+    "user": "charleswood",
+    "ip": "82.47.235.17",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 20:14:31",
+    "user": "patricia33",
+    "ip": "134.222.232.100",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 12:54:29",
+    "user": "javiercarey",
+    "ip": "183.117.239.64",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:06:43",
+    "user": "bradley46",
+    "ip": "205.146.189.84",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:47:14",
+    "user": "boylejessica",
+    "ip": "212.145.114.69",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:02:02",
+    "user": "walkerjames",
+    "ip": "179.212.44.89",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:34:31",
+    "user": "qmiller",
+    "ip": "209.71.51.155",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:22:27",
+    "user": "davidharrison",
+    "ip": "87.45.5.138",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:33:18",
+    "user": "jennifernichols",
+    "ip": "215.121.92.73",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:46:26",
+    "user": "jlang",
+    "ip": "74.73.253.239",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:15:16",
+    "user": "gary89",
+    "ip": "138.197.197.164",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:50:49",
+    "user": "hernandezkim",
+    "ip": "194.24.20.168",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:29:40",
+    "user": "espinozamelanie",
+    "ip": "208.129.212.9",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:30:32",
+    "user": "pkoch",
+    "ip": "18.97.37.39",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:11:07",
+    "user": "jharrington",
+    "ip": "1.126.29.217",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:21:58",
+    "user": "lararandy",
+    "ip": "178.89.67.183",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:59:45",
+    "user": "brian81",
+    "ip": "105.83.197.149",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:08:57",
+    "user": "xjennings",
+    "ip": "181.138.148.160",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:10:26",
+    "user": "michelle06",
+    "ip": "182.52.115.220",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:52:21",
+    "user": "barrerawillie",
+    "ip": "65.165.112.108",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:55:48",
+    "user": "tnichols",
+    "ip": "139.170.49.167",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:30:26",
+    "user": "dawnboyd",
+    "ip": "221.104.22.181",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:01:50",
+    "user": "hoganmartha",
+    "ip": "12.51.233.23",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 19:36:42",
+    "user": "jacob08",
+    "ip": "148.188.147.147",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:29:19",
+    "user": "julie42",
+    "ip": "101.94.181.26",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:04:14",
+    "user": "erik36",
+    "ip": "190.130.193.63",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:23:08",
+    "user": "adamdecker",
+    "ip": "129.135.9.114",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:09:42",
+    "user": "steelecory",
+    "ip": "209.52.237.126",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 22:47:37",
+    "user": "brandonrussell",
+    "ip": "185.111.122.250",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:50:54",
+    "user": "angelamiller",
+    "ip": "207.222.123.81",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:38:29",
+    "user": "smithjennifer",
+    "ip": "222.91.98.32",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:22:12",
+    "user": "carrie12",
+    "ip": "112.111.20.206",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:17:51",
+    "user": "david32",
+    "ip": "7.207.222.180",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:19:59",
+    "user": "rita04",
+    "ip": "174.186.178.170",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:33:48",
+    "user": "mdavenport",
+    "ip": "143.80.204.12",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:12:19",
+    "user": "ehall",
+    "ip": "59.241.44.94",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:12:56",
+    "user": "holly02",
+    "ip": "151.205.73.247",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:04:42",
+    "user": "usullivan",
+    "ip": "210.32.90.32",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:16:53",
+    "user": "norrisheather",
+    "ip": "205.137.169.76",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:46:18",
+    "user": "sarah65",
+    "ip": "159.214.16.54",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:52:58",
+    "user": "thomasdoyle",
+    "ip": "210.135.90.206",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:06:05",
+    "user": "rodriguezgabriel",
+    "ip": "87.101.234.68",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 16:10:42",
+    "user": "deckerwilliam",
+    "ip": "201.140.70.216",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:25:35",
+    "user": "howard30",
+    "ip": "141.160.224.224",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 10:33:23",
+    "user": "abigail69",
+    "ip": "155.46.180.21",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:07:25",
+    "user": "jonespaula",
+    "ip": "214.127.204.43",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:47:14",
+    "user": "mollyhampton",
+    "ip": "77.241.102.183",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:50:11",
+    "user": "wfisher",
+    "ip": "116.221.87.189",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:33:06",
+    "user": "chloe36",
+    "ip": "26.75.218.31",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:27:29",
+    "user": "estradakelly",
+    "ip": "161.33.74.162",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-30 06:09:27",
+    "user": "websterlisa",
+    "ip": "165.23.198.138",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:13:40",
+    "user": "jordankelli",
+    "ip": "196.147.210.225",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:26:25",
+    "user": "mark51",
+    "ip": "216.151.173.183",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:16:35",
+    "user": "rebeccahudson",
+    "ip": "218.86.170.93",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:32:36",
+    "user": "sandragonzalez",
+    "ip": "87.38.110.21",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:54:04",
+    "user": "michael65",
+    "ip": "175.179.218.206",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:55:11",
+    "user": "hannah70",
+    "ip": "168.146.124.206",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:03:31",
+    "user": "alicemills",
+    "ip": "188.149.28.64",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 14:41:37",
+    "user": "daniel46",
+    "ip": "166.164.34.155",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 20:52:27",
+    "user": "marymiranda",
+    "ip": "197.85.124.34",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:22:13",
+    "user": "jamesdaniel",
+    "ip": "216.225.20.95",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 03:12:24",
+    "user": "hbennett",
+    "ip": "73.6.33.168",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:00:48",
+    "user": "hunterjesus",
+    "ip": "193.146.95.76",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-29 17:50:15",
+    "user": "madisonpeters",
+    "ip": "203.250.131.137",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:07:05",
+    "user": "bhorton",
+    "ip": "132.140.18.6",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:13:37",
+    "user": "dorseylarry",
+    "ip": "122.242.182.4",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:53:41",
+    "user": "achavez",
+    "ip": "206.118.55.218",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:17:47",
+    "user": "matthewskimberly",
+    "ip": "12.43.1.35",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:46:44",
+    "user": "sarahstokes",
+    "ip": "81.66.226.46",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 20:12:24",
+    "user": "knightmichael",
+    "ip": "150.150.247.71",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:15:47",
+    "user": "gregoryrobert",
+    "ip": "222.66.202.129",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:32:48",
+    "user": "nbecker",
+    "ip": "176.224.41.206",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:49:12",
+    "user": "buckshane",
+    "ip": "197.15.123.10",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:58:41",
+    "user": "davistimothy",
+    "ip": "217.204.172.27",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:42:37",
+    "user": "donaldharmon",
+    "ip": "117.120.158.145",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 17:30:56",
+    "user": "lisa74",
+    "ip": "184.201.162.36",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:34:55",
+    "user": "davidfernandez",
+    "ip": "108.169.97.119",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 06:14:49",
+    "user": "aprilmaxwell",
+    "ip": "156.120.149.96",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:08:01",
+    "user": "clinejason",
+    "ip": "64.48.231.32",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:12:07",
+    "user": "brandongregory",
+    "ip": "221.131.90.62",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 01:43:20",
+    "user": "zblackwell",
+    "ip": "166.91.201.84",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:51:31",
+    "user": "pjones",
+    "ip": "6.36.115.250",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:30:37",
+    "user": "tracyjacobson",
+    "ip": "27.172.28.87",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:22:09",
+    "user": "xmartin",
+    "ip": "212.43.195.217",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:45:32",
+    "user": "meyersdavid",
+    "ip": "214.127.227.131",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 19:16:41",
+    "user": "george34",
+    "ip": "209.69.79.46",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:08:23",
+    "user": "ortizjulie",
+    "ip": "130.152.42.163",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:12:21",
+    "user": "carolynlopez",
+    "ip": "45.19.27.101",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:28:21",
+    "user": "pknight",
+    "ip": "201.65.171.201",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:41:30",
+    "user": "heather92",
+    "ip": "210.209.94.31",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:53:22",
+    "user": "ricky86",
+    "ip": "133.94.166.198",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 07:09:44",
+    "user": "brittanycamacho",
+    "ip": "183.138.47.184",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:43:25",
+    "user": "rhondadunn",
+    "ip": "168.70.210.32",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:38:34",
+    "user": "isabella08",
+    "ip": "138.14.76.49",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:32:55",
+    "user": "rachelharris",
+    "ip": "177.190.43.20",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 21:04:02",
+    "user": "rachel82",
+    "ip": "2.50.136.95",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "UNKNOWN_ACTIVITY"
+  },
+  {
+    "timestamp": "2025-06-29 15:02:37",
+    "user": "lisa15",
+    "ip": "63.179.233.171",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:48:31",
+    "user": "westbenjamin",
+    "ip": "213.142.103.219",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 08:38:57",
+    "user": "dawnmorrison",
+    "ip": "170.126.243.165",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:10:23",
+    "user": "leejulian",
+    "ip": "196.152.79.112",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:04:39",
+    "user": "tadams",
+    "ip": "73.237.235.141",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 12:42:28",
+    "user": "robertselizabeth",
+    "ip": "214.233.190.15",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:19:25",
+    "user": "amccoy",
+    "ip": "52.178.81.197",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 04:34:06",
+    "user": "michellewong",
+    "ip": "183.5.147.62",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:13:41",
+    "user": "fosborne",
+    "ip": "13.100.136.213",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:39:16",
+    "user": "hubbardbethany",
+    "ip": "27.223.9.209",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 00:24:36",
+    "user": "robert42",
+    "ip": "167.62.239.6",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:56:53",
+    "user": "jessicalopez",
+    "ip": "181.49.66.134",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 17:32:53",
+    "user": "blakearias",
+    "ip": "158.133.114.137",
+    "endpoint": "/plp/data/export",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 02:36:10",
+    "user": "vincent46",
+    "ip": "175.153.157.147",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 13:44:52",
+    "user": "kevinroberts",
+    "ip": "197.157.186.86",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 05:04:19",
+    "user": "torresdeanna",
+    "ip": "130.53.175.81",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 20:06:06",
+    "user": "uwilliamson",
+    "ip": "185.156.68.47",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 15:37:30",
+    "user": "dbeck",
+    "ip": "208.69.110.26",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:42:50",
+    "user": "tomadams",
+    "ip": "198.214.167.214",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:25:17",
+    "user": "ylawrence",
+    "ip": "91.91.240.0",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 23:56:54",
+    "user": "egonzalez",
+    "ip": "7.228.16.173",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-29 18:36:12",
+    "user": "sharon49",
+    "ip": "131.75.7.183",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 09:11:13",
+    "user": "garzamallory",
+    "ip": "174.183.123.164",
+    "endpoint": "/plp/payment/generate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  },
+  {
+    "timestamp": "2025-06-30 11:01:33",
+    "user": "wcampbell",
+    "ip": "204.229.73.175",
+    "endpoint": "/plp/user/login",
+    "action": "ACCESS",
+    "event": "FAILED_LOGIN"
+  },
+  {
+    "timestamp": "2025-06-29 22:10:27",
+    "user": "sarahduran",
+    "ip": "80.65.3.118",
+    "endpoint": "/plp/privilege/escalate",
+    "action": "ACCESS",
+    "event": "NORMAL"
+  }
+]

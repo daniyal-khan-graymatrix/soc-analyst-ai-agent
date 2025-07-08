@@ -1,0 +1,10 @@
+langgraph
+ipykernel
+pandas
+scikit-learn
+matplotlib
+seaborn
+openai
+langchain_openai
+langchain
+python-dotenv
