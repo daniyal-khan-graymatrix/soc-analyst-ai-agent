@@ -18,8 +18,8 @@ def threat_detector_agent(state):
         return state
 
     # Load model + encoders
-    model, endpoint_encoder, event_encoder = load_model_and_encoders()
-    X = extract_features(logs, endpoint_encoder, event_encoder)
+    model, event_encoder = load_model_and_encoders()
+    X = extract_features(logs, event_encoder)
 
     predictions = model.predict(X)  # -1 = anomaly
     suspicious = []

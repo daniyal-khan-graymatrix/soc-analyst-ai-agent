@@ -13,19 +13,19 @@ event_encoder = None
 
 
 def load_model_and_encoders():
-    global model, endpoint_encoder, event_encoder
-    if model and endpoint_encoder and event_encoder:
-        return model, endpoint_encoder, event_encoder
+    global model, event_encoder
+    if model and event_encoder:
+        return model, event_encoder
 
     with open(MODEL_PATH, "rb") as f:
         model = pickle.load(f)
     with open(EVENT_ENCODER_PATH, "rb") as f:
         event_encoder = pickle.load(f)
 
-    return model, endpoint_encoder, event_encoder
+    return model, event_encoder
 
 
-def extract_features(logs, endpoint_encoder, event_encoder):
+def extract_features(logs, event_encoder):
     rows = []
     for log in logs:
         ts = log.get("timestamp")
