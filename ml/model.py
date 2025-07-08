@@ -8,7 +8,6 @@ MODEL_PATH = "ml/ml_cache/iforest_model.pkl"
 EVENT_ENCODER_PATH = "ml/ml_cache/event_encoder.pkl"
 
 model = None
-endpoint_encoder = None
 event_encoder = None
 
 
