@@ -34,7 +34,8 @@ def get_initial_state():
 def main():
     flow = build_graph()
     initial_state = get_initial_state()
-    flow.invoke(initial_state)
+    final_state = flow.invoke(initial_state)
+    return final_state
 
 if __name__ == "__main__":
     main()
