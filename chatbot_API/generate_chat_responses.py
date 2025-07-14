@@ -52,8 +52,7 @@ async def generate_chat_responses(message: str, checkpoint_id: Optional[str] = N
 
         config = {
             "configurable": {
-                "thread_id": new_checkpoint_id,
-                "project_id": "68628d545384d01e747d6b79"
+                "thread_id": new_checkpoint_id
             }
         }
 
