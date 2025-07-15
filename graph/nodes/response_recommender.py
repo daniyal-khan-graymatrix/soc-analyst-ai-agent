@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Setup LangChain LLM
-llm = ChatOpenAI(model="gpt-4o", temperature=0.3, api_key=os.getenv("OPENAI_API_KEY"))
+llm = ChatOpenAI(model="gpt-4.1", temperature=0.3, api_key=os.getenv("OPENAI_API_KEY"))
 
 # Define prompt template
 prompt = ChatPromptTemplate.from_messages([
@@ -31,7 +31,7 @@ Incidents:
 
 def response_recommender_agent(state):
     """
-    ResponseRecommenderAgent (LLM-Based per-incident): Uses GPT-4o to generate
+    ResponseRecommenderAgent (LLM-Based per-incident): Uses GPT-4.1 to generate
     tailored response playbooks for each incident individually.
 
     Output:
