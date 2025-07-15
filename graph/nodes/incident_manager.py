@@ -14,11 +14,16 @@ prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a security incident triage assistant. Analyze logs to identify threats, correlate similar events, assess risk, and return incident records."),
     ("user", """
 You are given a list of suspicious logs. For each log, return a JSON object with:
-- threat_type (e.g., brute_force, plp_access, unknown_activity)
-- affected_system (e.g., internal_plp, mobile_app)
+- threat_type 
+- affected_user
+- source_ip
+- affected_system 
+- endpoint 
+- timestamp
 - summary (1–2 sentence explanation)
 - impact (business impact)
 - risk_score (1–10)
+- event_type
 
 Output a list of such JSON objects (one per log).
 
@@ -101,39 +106,49 @@ def classify_logs_with_llm(logs):
 
 def incident_manager_agent(state):
     """
-    Multi-IncidentManagerAgent: Contextualizes and triages multiple suspicious logs
-    into independent structured incident records using GPT-4o + fallback logic.
+    IncidentManagerAgent: Batches suspicious logs (10 at a time), analyzes them using GPT-4o,
+    and returns structured incident reports.
 
     Input:
-    - state['logs']
+    - state['logs']: List of suspicious logs
 
     Output:
     - state['logs']: List of structured incident dicts
     """
     suspicious_logs = state.get("logs", [])
+    print(f"Length of suspicious log: {len(suspicious_logs)}")
     if not suspicious_logs:
         state["logs"] = []
         return state
 
-    enriched = classify_logs_with_llm(suspicious_logs)
     incidents = []
 
-    for log, analysis in zip(suspicious_logs, enriched):
-        incident_id = f"INC{str(uuid.uuid4())[:8].upper()}"
-        report = {
-            "incident_id": incident_id,
-            "threat_type": analysis.get("threat_type").replace("_", " ").title(),
-            "affected_user": log.get("user"),
-            "source_ip": log.get("ip"),
-            "system": analysis.get("affected_system"),
-            "endpoint": log.get("endpoint"),
-            "detected_at": log.get("timestamp"),
-            "summary": analysis.get("summary"),
-            "impact": analysis.get("impact"),
-            "risk_score": analysis.get("risk_score"),
-            "event_type": log.get("event")
-        }
-        incidents.append(report)
+    # Process logs in batches of 10
+    batch_size = 10
+    for i in range(0, len(suspicious_logs), batch_size):
+        batch = suspicious_logs[i:i + batch_size]
+        try:
+            enriched_batch = classify_logs_with_llm(batch)
+        except Exception as e:
+            print(f"Batch {i//batch_size + 1} failed: {e}")
+            continue
+
+        for log, analysis in zip(batch, enriched_batch):
+            incident_id = f"INC{str(uuid.uuid4())[:8].upper()}"
+            report = {
+                "incident_id": incident_id,
+                "threat_type": analysis.get("threat_type", "Unknown").replace("_", " ").title(),
+                "affected_user": analysis.get("affected_user", "Unknown"),
+                "source_ip": analysis.get("source_ip", "Unknown"),
+                "system": analysis.get("affected_system", log.get("HOSTNAME", "Unknown")),
+                "endpoint": analysis.get("endpoint", "Unknown"),
+                "detected_at": analysis.get("timestamp", log.get("TIMESTAMP", "Unknown")),
+                "summary": analysis.get("summary", log.get("MESSAGE", "No message")),
+                "impact": analysis.get("impact", "Unknown"),
+                "risk_score": analysis.get("risk_score", "Medium"),
+                "event_type": log.get("event") or log.get("LEVEL", "Info")
+            }
+            incidents.append(report)
 
     # Save the incidents and enrich the data
     state["logs"] = incidents
