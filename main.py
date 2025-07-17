@@ -31,11 +31,23 @@ def get_initial_state():
     logs = load_logs()
     return State(logs=logs, accessed_by="l3_analyst@bank.co.in", user_role="L3")
 
-def main():
+# def main():
+#     flow = build_graph()
+#     initial_state = get_initial_state()
+#     final_state = flow.invoke(initial_state)
+#     return final_state
+
+# main.py
+from typing import List, Dict
+# from graph.flow import build_graph
+# from state_schema import State
+
+def main(logs: List[Dict]) -> State:
     flow = build_graph()
-    initial_state = get_initial_state()
+    initial_state = State(logs=logs, accessed_by="l3_analyst@bank.co.in", user_role="L3")
     final_state = flow.invoke(initial_state)
     return final_state
+
 
 if __name__ == "__main__":
     main()
