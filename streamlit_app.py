@@ -10,7 +10,7 @@ DATA_DIR = Path("data")
 
 st.set_page_config(page_title="SOC Analyst Log Uploader", layout="centered")
 
-st.title("📂 SOC Log Uploader")
+st.header("📂 SOC Log Uploader")
 st.markdown("Upload multiple `.csv` or `.json` log files. Once uploaded, they will be processed automatically.")
 
 uploaded_files = st.file_uploader("Upload CSV or JSON logs", type=["csv", "json"], accept_multiple_files=True)

@@ -59,7 +59,7 @@ def report_generator(state):
             if k not in {"incident_id", "detected_at"} and v
         )
 
-        # summary["embedding"] = generate_embedding(embed_input)
+        summary["embedding"] = generate_embedding(embed_input)
         summary["report_name"] = report_name
         summary_report.append(summary)
 
